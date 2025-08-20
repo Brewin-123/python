@@ -8,3 +8,4 @@
 #     print("Error: Introdujo uno o más de dos argumentos")
 #     print("Solución: Introduce los argumentos correctamente")
 #     print("Ejemplo: entrada_argumentos.py 'texto' 10")
+
