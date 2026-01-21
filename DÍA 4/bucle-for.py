@@ -76,4 +76,3 @@ for numero in lista_numeros:
         suma_impares = suma_impares + numero
         print(suma_impares)
 
-
