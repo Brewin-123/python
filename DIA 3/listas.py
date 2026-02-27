@@ -16,7 +16,7 @@ print(resultado)
 print(mi_lista3)
 
 lista = ['g','o','b','m','c']
-list.sort()
+#list.sort()
 print(lista)
 
 
