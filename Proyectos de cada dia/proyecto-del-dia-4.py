@@ -4,7 +4,6 @@ nombre = input("Ingrese su nombre: ")
 print(f"Bueno, {nombre}, he pensado en un número entre 1 y 100, y tienes ocho intentos para adivinar cuál es el número")
 
 num = randint(1,100)
-print(num)
 
 for intentos in range(8):
     numero = int(input("Ingresa un número del 1 al 100: "))
@@ -21,4 +20,4 @@ for intentos in range(8):
     else:
         print("El número que ingresaste es mayor al correcto")
 else:
-    print("SE ACABARON LOS INTENTOS")
+    print(f"SE ACABARON LOS INTENTOS, EL NÚMERO ERA {num}")
